@@ -1,3 +1,5 @@
+## Description
+
 A simple app to generate a random password.
 
 ## Development server
